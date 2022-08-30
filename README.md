@@ -34,7 +34,7 @@ For each number in this list, perform the following modulo operation:
 
 `number % (index + 1)`
 
-## Step Five
+### Step Five
 
 Use this list as a list of random indexes in a Fisher–Yates shuffle algorithm to shuffle the seed phrase. The item being shuffled should use the random index from the list with the index corresponding to the item's index.
 
